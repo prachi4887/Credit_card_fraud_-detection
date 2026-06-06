@@ -1,0 +1,32 @@
+# Dataset (too large for GitHub)
+data/
+*.csv
+
+# Saved models
+models/
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# Outputs (optional - remove this line if you want to push plots)
+# outputs/
