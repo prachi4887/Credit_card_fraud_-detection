@@ -166,7 +166,7 @@ All plots are saved to `outputs/`:
 
 **Your Name**  
 Internship Project — Task 5  
-[GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+[GitHub](https://github.com/psirohi4887) | [LinkedIn](https://linkedin.com/in/prachi-sirohi-24395335b)
 
 ---
 
